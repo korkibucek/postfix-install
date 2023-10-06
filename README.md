@@ -20,7 +20,7 @@ This repository contains a Bash script for setting up a basic mail server using 
 1. **Clone the Repository**: Clone this repository to your Amazon Linux instance.
 
     ```bash
-    git clone https://github.com/your-repo/mail-server-setup.git
+    git clone https://github.com/korkibucek/postfix-install
     ```
 
 2. **Navigate to the Directory**: Change to the directory containing the script.
